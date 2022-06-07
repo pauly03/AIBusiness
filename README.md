@@ -1,1 +1,1 @@
-##AI for better business
+## AI for better business
